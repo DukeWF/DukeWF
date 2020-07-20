@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with single-dog problem
 - 💬 Ask me about how to become lazy XD
 - 📫 How to reach me: duke_wang@foxmail.com | https://www.dukewf.cn
-- 😄 Pronouns: Duke
+- 😄 Pronouns: Bad guys✨
 - ⚡ Fun fact: Internship in Tencent...
 
 <!--
@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with single-dog problem
 - 💬 Ask me about how to become lazy XD
 - 📫 How to reach me: duke_wang@foxmail.com | https://www.dukewf.cn
-- 😄 Pronouns: Duke
+- 😄 Pronouns: Bad guys✨
 - ⚡ Fun fact: ...
 -->
