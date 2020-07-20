@@ -6,7 +6,7 @@
 - 💬 Ask me about how to become lazy XD
 - 📫 How to reach me: duke_wang@foxmail.com | https://www.dukewf.cn
 - 😄 Pronouns: Duke
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Internship in Tencent...
 
 <!--
 **DukeWF/DukeWF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
