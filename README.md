@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://github-readme-stats.vercel.app/api?username=dukewf&hide_border=true&show_icons=true&line_height=30)
 - 🔭 I’m currently working on Tor.net
 - 🌱 I’m currently learning golang
 - 👯 I’m looking to collaborate on Network Security
@@ -8,7 +9,6 @@
 - 😄 Pronouns: Bad guys✨
 - ⚡ Fun fact: Internship in Tencent...
 
-![](https://github-readme-stats.vercel.app/api?username=dukewf&hide_border=true&show_icons=true&line_height=30)
 <!--
 **DukeWF/DukeWF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
