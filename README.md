@@ -8,6 +8,8 @@
 - 📫 How to reach me: duke_wang@foxmail.com | https://www.dukewf.cn
 - 😄 Pronouns: Bad guys✨
 - ⚡ Fun fact: Internship in Tencent...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dukewf&layout=compact)](https://github.com/dukewf)
+
 
 <!--
 **DukeWF/DukeWF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
