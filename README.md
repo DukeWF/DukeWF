@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://github-readme-stats.vercel.app/api?username=dukewf&hide_border=true&show_icons=true&line_height=30)
+[![](https://github-readme-stats.vercel.app/api?username=dukewf&hide_border=true&show_icons=true&line_height=30)](https://github.com/dukewf)
 - 🔭 I’m currently working on Tor.net
 - 🌱 I’m currently learning golang
 - 👯 I’m looking to collaborate on Network Security
@@ -8,7 +8,6 @@
 - 📫 How to reach me: duke_wang@foxmail.com | https://www.dukewf.cn
 - 😄 Pronouns: Bad guys✨
 - ⚡ Fun fact: Internship in Tencent...
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dukewf&layout=compact)](https://github.com/dukewf)
 
 
 <!--
